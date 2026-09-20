@@ -1,0 +1,27 @@
+### VS Code ###
+.vscode/
+*.code-workspace
+
+### PlatformIO ###
+.pio/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+### Arduino ###
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+
+### Logs ###
+*.log
+
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
