@@ -1,0 +1,3 @@
+[submodule "serial-led-control"]
+	path = serial-led-control
+	url = https://github.com/Constantin-Stamate/serial-led-control.git
