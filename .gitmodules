@@ -1,3 +1,6 @@
 [submodule "serial-led-control"]
 	path = serial-led-control
 	url = https://github.com/Constantin-Stamate/serial-led-control.git
+[submodule "stdio-lcd-keypad"]
+	path = stdio-lcd-keypad
+	url = https://github.com/Constantin-Stamate/stdio-lcd-keypad.git
