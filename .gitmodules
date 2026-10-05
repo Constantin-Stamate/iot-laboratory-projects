@@ -7,3 +7,6 @@
 [submodule "sequential-task-control"]
 	path = sequential-task-control
 	url = https://github.com/Constantin-Stamate/sequential-task-control.git
+[submodule "freertos-preemptive-system"]
+	path = freertos-preemptive-system
+	url = https://github.com/Constantin-Stamate/freertos-preemptive-system.git
