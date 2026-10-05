@@ -4,3 +4,6 @@
 [submodule "stdio-lcd-keypad"]
 	path = stdio-lcd-keypad
 	url = https://github.com/Constantin-Stamate/stdio-lcd-keypad.git
+[submodule "sequential-task-control"]
+	path = sequential-task-control
+	url = https://github.com/Constantin-Stamate/sequential-task-control.git
