@@ -10,3 +10,6 @@
 [submodule "freertos-preemptive-system"]
 	path = freertos-preemptive-system
 	url = https://github.com/Constantin-Stamate/freertos-preemptive-system.git
+[submodule "sensor-signal-acquisition"]
+	path = sensor-signal-acquisition
+	url = https://github.com/Constantin-Stamate/sensor-signal-acquisition.git
