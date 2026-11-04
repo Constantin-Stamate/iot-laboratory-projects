@@ -16,3 +16,6 @@
 [submodule "signal-conditioning"]
 	path = signal-conditioning
 	url = https://github.com/Constantin-Stamate/signal-conditioning.git
+[submodule "relay-actuator-control"]
+	path = relay-actuator-control
+	url = https://github.com/Constantin-Stamate/relay-actuator-control.git
