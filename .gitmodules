@@ -22,3 +22,6 @@
 [submodule "dc-motor-control"]
 	path = dc-motor-control
 	url = https://github.com/Constantin-Stamate/dc-motor-control.git
+[submodule "hysteresis-control-system"]
+	path = hysteresis-control-system
+	url = https://github.com/Constantin-Stamate/hysteresis-control-system.git
