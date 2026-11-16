@@ -25,3 +25,6 @@
 [submodule "hysteresis-control-system"]
 	path = hysteresis-control-system
 	url = https://github.com/Constantin-Stamate/hysteresis-control-system.git
+[submodule "pid-temperature-control"]
+	path = pid-temperature-control
+	url = https://github.com/Constantin-Stamate/pid-temperature-control.git
