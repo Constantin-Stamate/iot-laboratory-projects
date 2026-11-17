@@ -28,3 +28,6 @@
 [submodule "pid-temperature-control"]
 	path = pid-temperature-control
 	url = https://github.com/Constantin-Stamate/pid-temperature-control.git
+[submodule "fsm-button-led-control"]
+	path = fsm-button-led-control
+	url = https://github.com/Constantin-Stamate/fsm-button-led-control.git
