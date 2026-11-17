@@ -31,3 +31,6 @@
 [submodule "fsm-button-led-control"]
 	path = fsm-button-led-control
 	url = https://github.com/Constantin-Stamate/fsm-button-led-control.git
+[submodule "traffic-light-fsm-control"]
+	path = traffic-light-fsm-control
+	url = https://github.com/Constantin-Stamate/traffic-light-fsm-control.git
